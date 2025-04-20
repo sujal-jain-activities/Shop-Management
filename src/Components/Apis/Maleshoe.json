@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Zoom 40",
+    "discount_price": 110,
+    "original_price": 140,
+    "discount_percent": 21,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_2.0,cs_srgb/h_341,c_limit/c6ce0b87-cc23-4113-9d19-48248900eb0c/nike-just-do-it.png  ",
+    "desc": "Lightweight running shoes with responsive cushioning for daily comfort and performance."
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost Light",
+    "discount_price": 130,
+    "original_price": 160,
+    "discount_percent": 19,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_2.0,cs_srgb/h_341,c_limit/9a1898f3-e10d-4df8-b2cf-e2b0735f7742/nike-just-do-it.png",
+    "desc": "Premium performance shoes built for energy return and stylish streetwear appeal."
+  },
+  {
+    "id": 3,
+    "name": "Puma RS-X Bold",
+    "discount_price": 95,
+    "original_price": 120,
+    "discount_percent": 21,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_2.0,cs_srgb/h_341,c_limit/c05dfab5-2d0e-48e3-8ca0-f04c21ccee2c/nike-just-do-it.png",
+    "desc": "Bold, retro-inspired sneakers that make a statement with every step."
+  },
+  {
+    "id": 4,
+    "name": "Reebok Nano X2",
+    "discount_price": 99,
+    "original_price": 130,
+    "discount_percent": 24,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_2.0,cs_srgb/h_341,c_limit/1892aab6-5b81-422f-b7e5-d5072294a299/nike-just-do-it.png",
+    "desc": "Engineered for cross-training with a durable build and all-day comfort."
+  },
+  {
+    "id": 5,
+    "name": "New Balance 550",
+    "discount_price": 85,
+    "original_price": 110,
+    "discount_percent": 23,
+    "img": "http://static.nike.com/a/images/f_auto/dpr_2.0,cs_srgb/h_341,c_limit/8568c73b-a0b5-47e0-a9bc-409353e7272e/nike-just-do-it.png",
+    "desc": "Classic retro basketball shoes with modern comfort and versatile style."
+  },
+  {
+    "id": 6,
+    "name": "Asics Gel-Kayano 29",
+    "discount_price": 105,
+    "original_price": 150,
+    "discount_percent": 30,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/h_350,c_limit/2ea8fe0a-b92c-4eb0-8ae5-b80ffc95a7d2/nike-just-do-it.png",
+    "desc": "Stability running shoes with gel technology for superior support and cushioning."
+  },
+  {
+    "id": 7,
+    "name": "Under Armour HOVR Phantom",
+    "discount_price": 115,
+    "original_price": 145,
+    "discount_percent": 21,
+    "img": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.5/h_382,c_limit/3f8c5b05-6d0f-49f4-b472-7425357e6a52/dunk-low-retro-shoes-mh4Q5d.png",
+    "desc": "Next-level comfort and sleek design for workouts or casual wear."
+  },
+  {
+    "id": 8,
+    "name": "Converse Chuck 70",
+    "discount_price": 65,
+    "original_price": 90,
+    "discount_percent": 28,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/h_350,c_limit/b9c593b6-f789-4459-abb3-4708eb84d047/nike-just-do-it.png",
+    "desc": "Timeless high-tops redesigned with premium materials and better cushioning."
+  },
+  {
+    "id": 9,
+    "name": "Vans Old Skool",
+    "discount_price": 55,
+    "original_price": 75,
+    "discount_percent": 27,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/h_350,c_limit/6e80dada-0014-441d-9d0e-986b36f1d817/nike-just-do-it.png",
+    "desc": "Iconic skate shoes with a durable canvas upper and classic side stripe."
+  },
+  {
+    "id": 10,
+    "name": "Jordan Air 1 Low",
+    "discount_price": 115,
+    "original_price": 150,
+    "discount_percent": 23,
+    "img": "https://static.nike.com/a/images/f_auto/dpr_1.5,cs_srgb/h_350,c_limit/65d6ceb7-1c9e-41fb-8acc-37eb1799e1b8/nike-just-do-it.png",
+    "desc": "Sleek, legendary sneakers blending basketball heritage with everyday comfort."
+  }
+]
