@@ -62,7 +62,7 @@ const About = () => {
         <div className='w-full h-full sm:w-[65rem]  sm:flex sm:justify-center sm:items-center'>
           <div className='relative flex justify-center  w-full  h-full'>
                 <h1 className='absolute top-8 font-semibold text-4xl'>Meet the Owner</h1>
-                <img className='object-cover w-60 h-80 absolute top-24 rounded-xl sm:right-30' src="./public/Images/papaji.jpg" alt="" />
+                <img className='object-cover w-60 h-80 absolute top-24 rounded-xl sm:right-30' src="/Images/papaji.jpg" alt="" />
                 <p className='absolute top-110 text-center text-lg font-semibold sm:left-5 sm:top-34 sm:w-130 sm:text-2xl'>
                 Our shop is proudly owned and managed by <span className="font-bold italic text-lg text-amber-400 sm:text-2xl">Mr.Nitin Kumar Jain</span>, 
                 a passionate entrepreneur with over 35+ of experience in the footwear industry. 
@@ -77,7 +77,7 @@ const About = () => {
         <div className='w-full h-full sm:w-[65rem]  sm:flex sm:justify-center sm:items-center'>
           <div className='relative flex justify-center  w-full  h-full'>
                 <h1 className='absolute top-8 font-semibold text-4xl text-center'>A Message to Our Valued Customers</h1>
-                <img className='object-cover w-80 h-60 absolute top-34 rounded-xl sm:left-30' src="./public/Images/shop.jpg" alt="" />
+                <img className='object-cover w-80 h-60 absolute top-34 rounded-xl sm:left-30' src="/Images/shop.jpg" alt="" />
                 <p className='absolute top-100 text-center text-lg font-semibold sm:right-5 sm:top-34 sm:w-130 sm:text-2xl'>
                 Thank you for visiting our online store. We are truly grateful for your support and trust.
                 Your satisfaction is our priority, and we hope you find the perfect pair that suits your style and comfort. 
